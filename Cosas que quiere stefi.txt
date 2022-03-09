@@ -1,0 +1,10 @@
+La pag quiere que primero se vea el nombre/Logo, abajo de eso un menu desplegable que tendra lo siguiente: NAV*, abajo se veran imagenes de los productos disponibles
+aca se puede o seguir con informacion de contacto o dar por terminada la pagina index, en el caso de seguir se puede crear diferentes secciones por orden de importancia, 
+con esto me refiero a puede venir los productos ya que es loq ue primero quiere que se vea, seguido por una seccion de informacion de como surge el emprendimiento,
+luego la seccion de contacto donde se incluira todo lo que ella use como medio de comunicacion venderdora/cliente (puede ser wspp, ig, mail, cualquier metodo que ella
+prefiera), y por ultimo el footer con algun que otro dato sobre la pag y redes sociales en caso de poseer. En otro caso cada seccion sera llevada a una pag diferente o
+una ventana emergente donde se desplegara la info correspondiente.
+
+*NAV
+
+INICIO, Amigurumis, patrones, prendas, como comprar, contacto, carrito

@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+header {
+    background-color: white;
+    width: 100%;
+}
+
+.logoHeader{  
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 15%;
+    
+}
+
+.logoHead {
+    height: 15em;
+    margin: auto;
+    
+}
+
+.nav {
+display: flex;
+justify-content: center;
+padding: 1.2em;
+font-size: 18px;
+background-color: #A6C987;
+}
+
+.categorias a{
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    padding: 0.9em;
+    color: #d6258c;
+}
+
